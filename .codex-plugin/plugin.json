@@ -1,0 +1,10 @@
+{
+  "name": "multi-genre-writing-agent",
+  "version": "1.0.0",
+  "description": "中文多体裁文章生成 Skill，支持散文、杂文、小说、戏剧、消息和多种评论体裁。",
+  "author": {
+    "name": "multi-genre-writing-agent"
+  },
+  "skills": "./skills/"
+}
+
